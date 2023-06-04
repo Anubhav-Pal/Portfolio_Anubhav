@@ -5,7 +5,7 @@ import { Navbar } from './components/index.js'
 
 const App = () => (
     <div className='app'>
-        <Navbar />
+        {/* <Navbar /> */}
         <Header />
         <About />
         <Work />
