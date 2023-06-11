@@ -35,6 +35,7 @@ import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
+import download from '../assets/download.png'
 
 
 export default {
@@ -48,6 +49,7 @@ export default {
   git,
   graphql,
   html,
+  download,
   javascript,
   mu5,
   node,
